@@ -1,0 +1,7 @@
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\bin\Debug\Modul5.exe.config
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\bin\Debug\Modul5.exe
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\bin\Debug\Modul5.pdb
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\obj\Debug\Modul5.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\obj\Debug\Modul5.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\obj\Debug\Modul5.exe
+C:\Users\УринбасаровД\source\repos\Modul5\Modul5\obj\Debug\Modul5.pdb
